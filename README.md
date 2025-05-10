@@ -51,17 +51,6 @@ Visit [http://localhost:3000](http://localhost:3000) to see the application in a
 * **CSS/HTML** - For styling the application
 * **JavaScript** - For frontend functionality
 
-## 📸 Screenshots
-
-
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to fork the repository and submit pull requests. Please ensure that your contributions align with the purpose of the project and follow the project's coding standards.
-
-
-
-**GitHub:** [@08-Aryan](https://github.com/08-Aryan)
 
 ---
 
