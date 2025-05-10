@@ -1,6 +1,4 @@
-Got it! Here’s an updated README without the license section:
 
----
 
 # Mother's Day - A Special Tribute
 
